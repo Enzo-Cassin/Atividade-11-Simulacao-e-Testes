@@ -14,7 +14,7 @@ Desenvolver um plano de teste completo para um sistema de e-commerce que será l
 
 ---
 
-## 2. Tipos de Teste Não Funcionais
+## 2. Planos de teste
 
 ### 2.1. Teste de Desempenho
 
